@@ -12,7 +12,7 @@
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
   <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-AI-Education-LLM-Architecture/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-AI-Education-LLM-Architecture?style=flat-square&logo=github&color=gold" alt="GitHub stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-AI-Education-LLM-Architecture/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-AI-Education-LLM-Architecture?style=flat-square&logo=github&color=gold" alt="GitHub_Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-AI-Education-LLM-Architecture/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-AI-Education-LLM-Architecture?style=flat-square&logo=github&color=blue" alt="GitHub forks" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-AI-Education-LLM-Architecture/issues"><img src="https://img.shields.io/github/issues/ishandutta2007/Awesome-AI-Education-LLM-Architecture?style=flat-square&color=red" alt="Open Issues" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-AI-Education-LLM-Architecture/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-green.svg?style=flat-square" alt="License" /></a>
@@ -89,9 +89,9 @@ The table below lists leading commercial and hosted AI education platforms, sort
 
 ## 🐙 Open-Source GitHub Projects
 
-The table below catalogs premier open-source repositories for self-study, LLM architectures from scratch, transformer internals, and deep learning engineering. Repositories are sorted in descending order by **GitHub Star Count**.
+The table below catalogs premier open-source repositories for self-study, LLM architectures from scratch, transformer internals, and deep learning engineering. Repositories are sorted in descending order by **GitHub Stars_Count**.
 
-| 📦 Repository | ⭐ GitHub Stars | 🎯 Focus Area / Technical Highlights |
+| 📦 Repository | ⭐ GitHub_Stars | 🎯 Focus Area / Technical Highlights |
 | :--- | :---: | :--- |
 | **[huggingface/transformers](https://github.com/huggingface/transformers)** | [![Stars](https://img.shields.io/github/stars/huggingface/transformers?style=social&color=white)](https://github.com/huggingface/transformers/stargazers) | The industry-standard library and educational resource for state-of-the-art transformer models (BERT, GPT, Llama, Gemma, Mistral) in PyTorch, TensorFlow, and JAX. |
 | **[microsoft/generative-ai-for-beginners](https://github.com/microsoft/generative-ai-for-beginners)** | [![Stars](https://img.shields.io/github/stars/microsoft/generative-ai-for-beginners?style=social&color=white)](https://github.com/microsoft/generative-ai-for-beginners/stargazers) | 21-lesson structured curriculum by Microsoft teaching generative AI fundamentals, prompt engineering, agentic design, and LLM application development. |
@@ -125,7 +125,7 @@ Contributions are warmly welcome! Help us keep this directory the most accurate,
 
 1. 🍴 **Fork the repository**.
 2. 🌿 **Create a descriptive branch** (`git checkout -b add-new-resource`).
-3. 📝 **Add/edit entries in [`README.md`](file:///C:/Users/ishan/Documents/Projects/Awesome-AI-Education-LLM-Architecture/README.md)** (maintain table formatting, accurate pricing, free tier limits, star badges, and SEO tags).
+3. 📝 **Add/edit entries in [`README.md`](file:///C:/Users/ishan/Documents/Projects/Awesome-AI-Education-LLM-Architecture/README.md)** (maintain table formatting, accurate pricing, free tier limits, Stars_Badges, and SEO tags).
 4. 🚀 **Submit a Pull Request** with a concise description of your additions.
 
 ---
